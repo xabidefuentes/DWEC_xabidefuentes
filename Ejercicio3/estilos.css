@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 2rem;
+  margin: 0;
+}
+
+h1 {
+  color: #f7df1e;
+}
+
+/* Estilos de la tabla de primos */
+table {
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+td {
+  border: 1px solid #ffffff;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 1.2rem;
+  background-color: #2d2d2d;
+}
+
+/* Estilo para los botones e input */
+input {
+  padding: 8px;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2d2d2d;
+  color: #fff;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #f7df1e;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e5cd1a;
+}
